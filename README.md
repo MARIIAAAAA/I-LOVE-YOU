@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[https://github.com/MARIIAAAAA/I-LOVE-YOU/blob/master/1.html]
+(https://github.com/MARIIAAAAA/I-LOVE-YOU/blob/master/1.html)
 
 ### Jekyll Themes
 
