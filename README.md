@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[1.html](https://guides.github.com/features/mastering-markdown/).
+[https://github.com/MARIIAAAAA/I-LOVE-YOU/blob/master/1.html]
 
 ### Jekyll Themes
 
